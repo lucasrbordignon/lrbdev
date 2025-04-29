@@ -23,7 +23,7 @@ const Hero = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <Button asChild size="lg" className="button-primary px-8 py-3 font-semibold text-base">
-                <a href="#serviços">
+                <a href="#servicos">
                   Ver serviços <ArrowRight className="ml-2 h-5 w-5" />
                 </a>
               </Button>
@@ -50,7 +50,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.4 }}
         >
-          <a href="#serviços" aria-label="Scroll down">
+          <a href="#servicos" aria-label="Scroll down">
             <ChevronDown className="h-10 w-10 text-muted-foreground hover:text-primary transition-colors animate-bounce" />
           </a>
         </motion.div>
