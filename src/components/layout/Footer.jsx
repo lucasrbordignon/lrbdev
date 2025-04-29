@@ -4,7 +4,7 @@ import { Github, Instagram, Linkedin, Mail, Phone } from 'lucide-react';
 import React from 'react';
 
 const Footer = () => {
-  const logoUrl = "../../../public/lrbpixel.png"
+  const logoUrl = "/lrbpixel.png"
 
   return (
     <footer className="py-12 bg-secondary text-secondary-foreground">

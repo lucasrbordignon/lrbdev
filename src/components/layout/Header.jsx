@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import React from 'react';
 
 const Header = () => {
-  const logoUrl = "../../../public/logo.png";
+  const logoUrl = "/logo.png";
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
