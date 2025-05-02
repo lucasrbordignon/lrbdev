@@ -35,7 +35,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} lrb dev. Todos os direitos reservados.
+          © {new Date().getFullYear()} lrb dev - São Paulo - Todos os direitos reservados.
         </div>
       </div>
     </footer>
