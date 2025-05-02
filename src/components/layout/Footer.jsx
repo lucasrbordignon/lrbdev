@@ -15,7 +15,7 @@ const Footer = () => {
             <p className="text-muted-foreground">Transformando ideias em realidade digital.</p>
             <div className="flex items-center gap-3 mt-4 justify-center md:justify-start text-muted-foreground">
               <Mail className="h-5 w-5"/> 
-              <a href="mailto:lucas.r.bordignon@gmail.com" className="hover:text-foreground transition-colors">lucas.r.bordignon@gmail.com</a>
+              <a href="mailto:contato@lrb.dev.br" className="hover:text-foreground transition-colors">contato@lrb.dev.br</a>
             </div>
              <div className="flex items-center gap-3 mt-2 justify-center md:justify-start text-muted-foreground">
               <Phone className="h-5 w-5"/> 
