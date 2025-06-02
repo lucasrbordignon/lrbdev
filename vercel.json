@@ -2,7 +2,8 @@
   "rewrites": [
     {
       "source": "/folcon",
-      "destination": "https://folcon-lp.vercel.app/folcon"
+      "destination": "https://folcon-lp.vercel.app/folcon",
+      "permanent": false
     }
   ]
 }
