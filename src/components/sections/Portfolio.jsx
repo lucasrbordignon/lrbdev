@@ -40,7 +40,7 @@ const Portfolio = () => {
   const portfolioData = [
     {
       title: "fol&con ",
-      description: "Plataforma web para automatizar processos internos de RH, reduzindo o tempo de tarefas em 40%.",
+      description: "O CRM Simples que Impulsiona Pequenos Negócios",
       imageUrl: "Modern dashboard interface showing charts and data",
       link: "#",
       delay: 0.1
