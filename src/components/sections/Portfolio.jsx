@@ -2,7 +2,6 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { motion } from 'framer-motion';
 import { ExternalLink } from 'lucide-react';
-import React from 'react';
 
 const PortfolioItem = ({ title, description, imageUrl, link, delay }) => {
   return (
@@ -40,32 +39,11 @@ const PortfolioItem = ({ title, description, imageUrl, link, delay }) => {
 const Portfolio = () => {
   const portfolioData = [
     {
-      title: "Sistema de Automação X",
+      title: "fol&con ",
       description: "Plataforma web para automatizar processos internos de RH, reduzindo o tempo de tarefas em 40%.",
       imageUrl: "Modern dashboard interface showing charts and data",
       link: "#",
       delay: 0.1
-    },
-    {
-      title: "Aplicativo Mobile Y",
-      description: "App iOS e Android para gerenciamento de finanças pessoais com interface intuitiva e segura.",
-      imageUrl: "Smartphone screen displaying a clean finance app interface",
-      link: "#",
-      delay: 0.2
-    },
-    {
-      title: "Landing Page Z",
-      description: "Página de captura de leads para lançamento de produto, resultando em 25% de taxa de conversão.",
-      imageUrl: "Screenshot of a compelling landing page design",
-      link: "#",
-      delay: 0.3
-    },
-     {
-      title: "Integração API W",
-      description: "Conexão entre sistema de e-commerce e ERP, otimizando a gestão de estoque e pedidos.",
-      imageUrl: "Abstract graphic representing data flow and API connection",
-      link: "#",
-      delay: 0.4
     }
   ];
 
