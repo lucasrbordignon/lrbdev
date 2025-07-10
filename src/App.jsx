@@ -4,7 +4,6 @@ import Header from '@/components/layout/Header';
 import About from '@/components/sections/About';
 import ContactForm from '@/components/sections/ContactForm';
 import Hero from '@/components/sections/Hero';
-import Portfolio from '@/components/sections/Portfolio';
 import Services from '@/components/sections/Services';
 import { Toaster } from '@/components/ui/toaster';
 
