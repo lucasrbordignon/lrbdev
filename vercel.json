@@ -1,9 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/folcon/(.*)",
-      "destination": "https://folcon-lp.vercel.app/folcon/$1",
-      "permanent": false
-    }
-  ]
-}
